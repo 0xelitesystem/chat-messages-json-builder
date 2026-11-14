@@ -1,8 +1,8 @@
-# ChatML Message Builder
+# Chat Messages JSON Builder
 
 Visually build a chat messages array and export it in OpenAI-style and Anthropic-style JSON. No server, no tracking, no third-party scripts.
 
-**Live demo:** https://0xelitesystem.github.io/chatml-message-builder/
+**Live demo:** https://0xelitesystem.github.io/chat-messages-json-builder/
 
 ## Use
 
@@ -26,8 +26,8 @@ Everything runs in your browser. The messages you type and the JSON you export n
 ## Run locally
 
 ```bash
-git clone https://github.com/0xelitesystem/chatml-message-builder
-cd chatml-message-builder
+git clone https://github.com/0xelitesystem/chat-messages-json-builder
+cd chat-messages-json-builder
 # Open index.html in your browser, or:
 python -m http.server 8000
 ```
